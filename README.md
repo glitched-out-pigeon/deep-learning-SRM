@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/Task-Satellite%20SR-orange" />
 </p>
 
-<p align="center">
-  <img src="docs/assets/sentinel2_naip_validation.png" width="90%" alt="Sentinel-2 to NAIP super-resolution validation example, with zoomed comparison against bicubic and NAIP reference" />
-</p>
-
 ---
 
 ## Overview
